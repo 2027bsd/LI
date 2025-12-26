@@ -1338,7 +1338,7 @@ Assertion Deglitch Mantissa（断言消隐指数）
 
 断言消隐尾数 0x49[7-3]（存储在 MSR/寄存器地址 0x49 的第 7 至第 3 位）。断言消隐= 2µs × 尾数 × 2^(指数)
 
-###### De assertion Deglitch Mantissa（断言消隐指数）
+###### De assertion Deglitch Exponent（断言消隐指数）
 
 断言消隐指数 0x49[3-0]（存储在 MSR/寄存器地址 0x49 的第 3 至第 0 位）。断言消隐 \= 2µs × 尾数 × 2\^(指数)。
 
