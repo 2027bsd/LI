@@ -10469,7 +10469,7 @@ No（否）
 
 允许该镜像在安全启动模式下运行。将 PE 镜像的 SHA256 哈希证书注册到授权签名数据库（db）中。
 
-##### Remowe 'UEFI CA' from DB（从数据库中删除 UEFI CA）
+##### Remove 'UEFI CA' from DB（从数据库中删除 UEFI CA）
 
 对于已经启用 Device Guard（微软的一种增强系统安全的技术）的系统，授权签名数据库（db）中不应包含“Microsoft UEFI CA”证书。
 
