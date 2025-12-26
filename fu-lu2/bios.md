@@ -8750,7 +8750,7 @@ Disabled（禁用）
 
 启用该设置后，BIOS 会在操作系统启动之前将 LPSS（Serial IO）总线上的控制器（如 I²C、SPI、UART、GPIO 等）通过 ACPI 表（如 DSDT、SSDT）枚举并报告。这样操作系统在启动时能识别并管理这些设备。参见 [ACPI Specification 概述 (基于 ACPI_Spec_6_4_Jan22)](https://blog.csdn.net/anqi8955/article/details/120162679)
 
-##### SerilaIO timing parameters（串行 IO 时序参数）
+##### SerialIO timing parameters（串行 IO 时序参数）
 
 选项：
 
