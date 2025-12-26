@@ -2170,7 +2170,7 @@ MBP，Memory Based Protection Hand‑Off Blocks，基于内存的保护接续块
 
 调试 Intel 管理引擎用。
 
-##### HECI2 Interface Communication（HCEI2 接口通信）
+##### HECI2 Interface Communication（HECI2 接口通信）
 
 选项：
 
